@@ -2,7 +2,11 @@
 
 # U1.W3: Technical Blog
 
+<<<<<<< HEAD
 ## Learning Objectives
+=======
+## Learning Competencies
+>>>>>>> FETCH_HEAD
 - Summarize the popularity of JavaScript in Web Development
 
 ## Directions

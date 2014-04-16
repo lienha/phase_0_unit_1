@@ -4,13 +4,21 @@
 
 **DO NOT READ THROUGH OR ATTEMPT THIS CHALLENGE BEFORE YOUR GUIDED PAIRING SESSION**
 
+<<<<<<< HEAD
 ## Learning Objectives
+=======
+## Learning Competencies
+>>>>>>> FETCH_HEAD
 1. Create and manipulate objects in JavaScript
 2. Use functions in JavaScript
 3. Debug using Node's error messages
 
 
+<<<<<<< HEAD
 ## Background
+=======
+## Summary
+>>>>>>> FETCH_HEAD
 Aside from being totally awesome developers-in-training, you're also up-and-coming movie 
 agents waiting to sign your first big star! 
 

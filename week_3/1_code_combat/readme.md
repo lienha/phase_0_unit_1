@@ -3,7 +3,11 @@
 # U1.W3: Code Combat's Beginner Campaign
 
 
+<<<<<<< HEAD
 ## Learning Objectives
+=======
+## Learning Competencies
+>>>>>>> FETCH_HEAD
 1. Manipulate an object using JavaScript
 2. Explain what `()` does in JavaScript
 3. Use error messages correct syntax mistakes

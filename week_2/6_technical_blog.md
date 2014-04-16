@@ -2,12 +2,20 @@
 
 # U1.W2: Technical Blog
 
+<<<<<<< HEAD
 ## Learning Objectives
+=======
+## Learning Competencies
+>>>>>>> FETCH_HEAD
 - Compare CSS concepts to determine the differences
 - Explain how and when to use CSS concepts
 
 
+<<<<<<< HEAD
 ## Purpose
+=======
+## Summary
+>>>>>>> FETCH_HEAD
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
 
 ## Directions

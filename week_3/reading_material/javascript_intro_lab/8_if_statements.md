@@ -35,9 +35,15 @@ The branches are tested in order and if one of them is true, then the body of th
 An `if` structure can have as many `else if` branches as you like.  Here is an example of an `if / else if` structure used to compute a course grade:
 
 ```javascript
+<<<<<<< HEAD
 if (average <= 90) {
   var grade = "A";
 } else if (average <= 80) {
+=======
+if (average >= 90) {
+  var grade = "A";
+} else if (average >= 80) {
+>>>>>>> FETCH_HEAD
   var grade = "B";
 } else {
   var grade = "F"; 
@@ -50,4 +56,8 @@ Click [next](9_array_basics.md) to go to the next section.
 
 ### References
 
+<<<<<<< HEAD
 [MDN: JavaScript Reference: if...else](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/if...else)
+=======
+[MDN: JavaScript Reference: if...else](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/if...else)
+>>>>>>> FETCH_HEAD

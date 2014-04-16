@@ -2,7 +2,11 @@
 
 # U1.W3 Pairing and Giving Feedback
 
+<<<<<<< HEAD
 ## Learning Objectives
+=======
+## Learning Competencies
+>>>>>>> FETCH_HEAD
 - Identify one emotion that arose during a pairing session
 - Describe kind, actionable, and specific feedback
 - Discuss the feeling of vulnerablity when pairing and reading feedback

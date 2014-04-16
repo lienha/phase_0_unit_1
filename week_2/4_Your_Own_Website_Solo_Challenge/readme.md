@@ -3,12 +3,20 @@
 # U1.W2: Your website (Solo Challenge)
 
 
+<<<<<<< HEAD
 ## Learning Objectives
+=======
+## Learning Competencies
+>>>>>>> FETCH_HEAD
 - Illustrate your understanding of web design and user experience in your website
 - Describe and practice process of building a website
 
 
+<<<<<<< HEAD
 ## Background
+=======
+## Summary
+>>>>>>> FETCH_HEAD
 
 **THIS IS YOUR SOLO CHALLENGE FOR WEEK 2.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/) for more details as to what this entails. 
 
